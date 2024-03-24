@@ -1,0 +1,37 @@
+body {
+    font-family: comic sans ms;
+    background: url(https://i.postimg.cc/QMprZ11B/image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    color:#164877;
+    background-color: white;
+     box-shadow: 0px 10px 0 0 #8bbee7;
+    border-radius: 20px;
+} 
+
+p {
+    background-color: white;
+    border-radius: 10px;
+}
+
+h2{
+     box-shadow: 0px 10px 0 0#ffe346;
+    border-radius: 5px;
+    background-color: #fff2ac;
+}
+
+
+a {
+font-size: 20px;
+    font-weight: 700;
+    color:#301161;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
